@@ -1,2 +1,1 @@
-# Intelligent-Robot-System
-Repo for 16280 class - Fall 2025
+Repo for Homework 7 Fall 2026
